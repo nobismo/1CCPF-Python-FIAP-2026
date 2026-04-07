@@ -7,6 +7,7 @@ input()
 pygame.event.wait()
 breakpoint()
 
+
 #exer 2
 numero = int(input("Escrava um numero: "))
 if numero %2 == 0: print("esse numero é par")
