@@ -1,10 +1,11 @@
 #exer 1
 import pygame
 pygame.init()
-pygame.mixer.music.load('')
+pygame.mixer.music.load('audio01-aula03.mp3')
 pygame.mixer.music.play()
 input()
 pygame.event.wait()
+breakpoint()
 
 #exer 2
 numero = int(input("Escrava um numero: "))
